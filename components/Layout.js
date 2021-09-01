@@ -1,8 +1,9 @@
+import { loadGetInitialProps } from 'next/dist/shared/lib/utils'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-export default function Home() {
+export default function Layout(props) {
   return (
     <div id="wrapper">
       <Head>
@@ -35,7 +36,7 @@ export default function Home() {
         </nav>
         
         {/*  This is where the content area goes */}
-        
+        {props.children}
         
         {/* Contact */}
         <section id="contact">
