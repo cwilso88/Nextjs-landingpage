@@ -24,3 +24,14 @@ export default function Home() {
         </Layout>
     )
 }
+
+
+export const getStaticPaths = async () => {
+    const files = fs.readdirSync('posts');
+    console.log("Files:", files);
+    const path = files.map(filename => ({
+        params: {
+            slug: filename.replace('.md', '')
+        }
+    }))
+}
