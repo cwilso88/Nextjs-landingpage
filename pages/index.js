@@ -6,6 +6,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <Layout>
+      <Head>
+        <title>Chat blog</title>
+      </Head>
         {/* Banner */}
         <section id="banner" className="major">
           <div className="inner">
