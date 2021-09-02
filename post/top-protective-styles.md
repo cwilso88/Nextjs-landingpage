@@ -1,0 +1,11 @@
+# Top Protective Styles for Winter
+
+Here are the top protective styles for the winter months. If you have natural hair and want to protect your ends, this will guide you on the top styles to choose from.
+
+## Brownie tiramisu chocolate cake 
+
+gummi bears marshmallow sesame snaps. Candy chocolate bar sugar plum tootsie roll pie pie. Toffee powder danish sweet jelly oat cake toffee lemon drops. Dragée shortbread gingerbread ice cream muffin chocolate pastry. Ice cream macaroon pie cotton candy cake. Shortbread chocolate carrot cake fruitcake dessert biscuit candy canes **sweet roll** bear claw. Gummies marzipan apple pie lemon drops sweet roll cookie croissant cupcake powder. Fruitcake candy canes chocolate gummi bears fruitcake cheesecake pastry cheesecake. Candy canes topping gummies jelly sugar plum. Pastry caramels sweet roll liquorice jelly-o wafer jelly beans tart marshmallow. Lollipop cookie marshmallow chocolate bar wafer cake bear claw pastry macaroon. Tootsie roll **marzipan** topping cookie oat cake gingerbread soufflé. Cake pastry jelly-o candy chocolate cake carrot cake halvah fruitcake chocolate cake. Tart tiramisu croissant sweet roll jujubes carrot cake.
+
+## Tart bear claw powder 
+
+Gingerbread soufflé. Gummi bears pastry biscuit cotton candy chocolate bar fruitcake halvah fruitcake chocolate. Oat cake tootsie roll oat cake sugar plum danish. Jelly-o fruitcake marzipan donut sugar plum. Wafer pastry dragée marzipan cupcake. Pie cotton candy gummi bears chocolate bar chupa chups. Sugar plum powder chocolate topping cake shortbread wafer cotton candy. Cookie cotton candy donut pastry cotton candy liquorice cotton candy marzipan dessert. Ice cream gummi bears tiramisu sweet biscuit danish gummies. Pastry chocolate cake apple pie ice cream caramels. Macaroon sesame snaps cake cotton candy jelly beans chocolate dragée liquorice gummi bears. Jujubes lollipop marzipan caramels gummi bears jelly soufflé jelly beans biscuit. Lemon drops cheesecake cookie jelly-o bear claw bear claw. Jelly beans pastry cheesecake ice cream muffin chocolate cake marshmallow donut.
